@@ -1,0 +1,3 @@
+Instaling php dependences:
+
+composer require vlucas/phpdotenv
