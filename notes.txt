@@ -1,3 +1,5 @@
+Para iniciar e servidor, ejecuta: node server.js
+
 Instaling php dependences:
 
 composer require vlucas/phpdotenv
